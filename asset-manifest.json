@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/xe-app/static/css/main.0f450ad8.chunk.css",
-    "main.js": "/xe-app/static/js/main.0b1ef88c.chunk.js",
-    "main.js.map": "/xe-app/static/js/main.0b1ef88c.chunk.js.map",
+    "main.js": "/xe-app/static/js/main.a0702da1.chunk.js",
+    "main.js.map": "/xe-app/static/js/main.a0702da1.chunk.js.map",
     "runtime-main.js": "/xe-app/static/js/runtime-main.c4f8c98d.js",
     "runtime-main.js.map": "/xe-app/static/js/runtime-main.c4f8c98d.js.map",
     "static/css/2.70da373d.chunk.css": "/xe-app/static/css/2.70da373d.chunk.css",
     "static/js/2.1d83a5d2.chunk.js": "/xe-app/static/js/2.1d83a5d2.chunk.js",
     "static/js/2.1d83a5d2.chunk.js.map": "/xe-app/static/js/2.1d83a5d2.chunk.js.map",
     "index.html": "/xe-app/index.html",
-    "precache-manifest.0632c2ef7df765c6660466fee89ef99a.js": "/xe-app/precache-manifest.0632c2ef7df765c6660466fee89ef99a.js",
+    "precache-manifest.86f64735c25c96bb87b308d9327a8c69.js": "/xe-app/precache-manifest.86f64735c25c96bb87b308d9327a8c69.js",
     "service-worker.js": "/xe-app/service-worker.js",
     "static/css/2.70da373d.chunk.css.map": "/xe-app/static/css/2.70da373d.chunk.css.map",
     "static/css/main.0f450ad8.chunk.css.map": "/xe-app/static/css/main.0f450ad8.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.70da373d.chunk.css",
     "static/js/2.1d83a5d2.chunk.js",
     "static/css/main.0f450ad8.chunk.css",
-    "static/js/main.0b1ef88c.chunk.js"
+    "static/js/main.a0702da1.chunk.js"
   ]
 }
