@@ -125,10 +125,12 @@ class Searchfield extends Component {
             this.storeToCache(query, entries);
           }.bind(this, query)
         )
-        .catch(function(error) {
-          console.error(error);
-          this.setState({ locations: [], loading: false });
-        });
+        .catch(
+          function(error) {
+            console.error(error);
+            this.setState({ locations: [], loading: false });
+          }.bind(this)
+        );
     }
   }
 
