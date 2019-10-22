@@ -2,7 +2,7 @@
   "name": "xe-app",
   "homepage": "http://ConstantinElias.github.io/xe-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
