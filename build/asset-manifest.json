@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/xe-app/static/css/main.5e68582c.chunk.css",
+    "main.js": "/xe-app/static/js/main.be289316.chunk.js",
+    "main.js.map": "/xe-app/static/js/main.be289316.chunk.js.map",
+    "runtime-main.js": "/xe-app/static/js/runtime-main.c4f8c98d.js",
+    "runtime-main.js.map": "/xe-app/static/js/runtime-main.c4f8c98d.js.map",
+    "static/css/2.e3fbfae2.chunk.css": "/xe-app/static/css/2.e3fbfae2.chunk.css",
+    "static/js/2.9d5a127f.chunk.js": "/xe-app/static/js/2.9d5a127f.chunk.js",
+    "static/js/2.9d5a127f.chunk.js.map": "/xe-app/static/js/2.9d5a127f.chunk.js.map",
+    "index.html": "/xe-app/index.html",
+    "precache-manifest.c4db69dd5ab6c2ef4b4144961989aa83.js": "/xe-app/precache-manifest.c4db69dd5ab6c2ef4b4144961989aa83.js",
+    "service-worker.js": "/xe-app/service-worker.js",
+    "static/css/2.e3fbfae2.chunk.css.map": "/xe-app/static/css/2.e3fbfae2.chunk.css.map",
+    "static/css/main.5e68582c.chunk.css.map": "/xe-app/static/css/main.5e68582c.chunk.css.map",
+    "static/media/logo.png": "/xe-app/static/media/logo.38f20377.png",
+    "static/media/Searchfield.css": "/xe-app/static/media/search.a6f1e736.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4f8c98d.js",
+    "static/css/2.e3fbfae2.chunk.css",
+    "static/js/2.9d5a127f.chunk.js",
+    "static/css/main.5e68582c.chunk.css",
+    "static/js/main.be289316.chunk.js"
+  ]
+}

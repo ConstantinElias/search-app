@@ -1,0 +1,106 @@
+.home-banner-desktop {
+  border: 1px solid #ccc;
+  position: relative;
+  text-align: center;
+  min-width: 300px;
+  max-width: 300px;
+  min-height: 600px;
+  max-height: 600px;
+}
+
+.home-banner-tablet {
+  border: 1px solid #ccc;
+  position: relative;
+  text-align: center;
+  width: 90%;
+  min-height: 100px;
+  max-height: 100px;
+}
+
+.home-banner-span {
+  position: absolute;
+  width: 100%;
+  color: #ccc;
+  bottom: 0;
+  left: 0;
+  font-size: 30px;
+}
+
+.app-logo {
+  margin-left: 10px;
+  max-width: 200px;
+  max-height: 200px;
+  flex: 1;
+}
+
+.home-desktop {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  padding: 20px;
+  background-color: #ffffff;
+  min-height: 100vh;
+  color: white;
+}
+
+.home-tablet {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.home-mobile {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.search {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: flex-start;
+  color: #007bff;
+  margin-left: 10px;
+  width: 100%;
+}
+
+@media screen and (max-width: 1024px) {
+  .app-logo {
+    max-width: 100px;
+    max-height: 100px;
+    margin: 0;
+  }
+
+  .search {
+    width: 80%;
+    margin: 0;
+    max-width: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: left;
+    flex: 1;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .app-logo {
+    max-width: 70px;
+    max-height: 70px;
+    margin: 0;
+  }
+
+  .search {
+    width: 80%;
+    margin-top: 20px;
+    max-width: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: left;
+  }
+}
